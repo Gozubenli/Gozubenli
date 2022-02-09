@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-.Net C# </br>
+📫 .Net C# </br>
 	Desktop</br>
 		WPF =>  DS4 (Backend WCF & Windows Service, Frontend WPF, Database SQL Server), Kantar (FrontEnd WPF, Quartz Job, Database SQL Server)</br></br>
 	Web</br>
@@ -13,13 +13,13 @@
 	Service</br>
 		Windows Service => DS4 (Loom Machines Socket Programming && Timers), RFID Service (Listening RFID readers, (Honeywell intermex RFID),Database SQL Server )</br></br>
 
-Flutter Dart</br>
+📫 Flutter Dart</br>
 	Mobile Lojistik (Frontend dart, Backend C# Web Api, Database SQL Server ), Aplus, vs</br></br>
 
-Linux</br>
+📫 Linux</br>
 	Administrating Centos Server (New Server from scratch, installing MYSQL, CWP, Wordpress, Apache, managing domains)</br></br>
 
-Java</br>
+📫 Java</br>
 	Web </br>
 		JSF => Converting existing PHP CRM application to JSF Primefaces( Frontend Primefaces, Backend Java, Database Oracle 10g)</br></br>
 	
