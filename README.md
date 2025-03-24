@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @Gozubenli
 - 👀 I’m interested in Mobile and Web Development.
 
-Mobile ( Flutter, Dart )
-Desktop ( WPF, WCF, C# )
-Web ( Javascript, React, NodeJs, Asp.Net MVC, JSF, PHP )
-Database ( Oracle, Mysql, Sql Server, MongoDB )
-Git, Svn, Jira, Scrum, CI/CD
-Cloud (Firebase, Firestore)
-VS Code, Visual Studio, Cursor
-Nginx, Apache, Tomcat
-Centos, AlmaLinux
+- Mobile ( Flutter, Dart )
+- Desktop ( WPF, WCF, C# )
+- Web ( Javascript, React, NodeJs, Asp.Net MVC, JSF, PHP )
+- Database ( Oracle, Mysql, Sql Server, MongoDB )
+- Git, Svn, Jira, Scrum, CI/CD
+- Cloud (Firebase, Firestore)
+- VS Code, Visual Studio, Cursor
+- Nginx, Apache, Tomcat
+- Centos, AlmaLinux
 	
 	
 
